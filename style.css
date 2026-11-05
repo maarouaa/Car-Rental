@@ -1,0 +1,131 @@
+
+nav {
+  background-color: yellow;
+}
+body{
+    margin: 10px;
+  
+}
+
+#he {
+    border-top: 2px solid yellow;
+  }
+  .brr{
+    margin-top: 40px;
+    margin-left: 0%;
+  }
+  #size{
+    height: 5%;
+   
+  }
+  form {
+    border: 5px solid rgb(255, 255, 40);
+    padding: 10px;
+    /* padding-right: 40px; */
+   /* margin-top: 100%; */
+  }
+  #btn{
+    /* margin-left: 65%; */
+    margin-top: 5%;
+  }
+  /* #form{
+    position:absolute;
+    padding: 40%;
+    
+  } */
+  /* #formulaire{
+    position: absolute;
+    margin-top: 30%;
+  } */
+  /* html{
+    margin: 0%;
+    padding: 0%;
+  } */
+
+
+  /* .fa {padding: 20px; 
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%; }
+  
+ 
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+   */
+#brt{
+display: block;
+background-color: darkorange;
+  padding-left: 90px;
+  padding-right: 100px;
+  
+}
+#tit{
+  background-color: #f1f1f1;
+  margin-top: 0%;
+}
+#br{
+  display: block;
+background-color: rgb(223, 226, 180);
+  padding-left: 90px;
+  padding-right: 100px;
+  
+}
+hr{
+  height:2px;
+}
+#titre{
+  color: #e65c00;
+}
+#ttre{
+  color: rgb(142, 140, 140);
+}
+#bt{
+  width:400px;
+  display: block;
+background-color: darkorange;
+  padding-left: 90px;
+  padding-right: 100px;
+  
+}
+#lou{
+  width:200px;
+}
+#brrrt{
+  display: block;
+
+    padding-left: 90px;
+    padding-right: 100px;
+
+  
+  }
+  .form-group label {
+    font-weight: bold;
+  }
+  #frm{
+      width :100%;
+      margin: 10px;
+        border: 2px solid black;
+        padding: 10px;
+  }
+#ofr{
+  margin: 10%;
+}
+
+#nav{
+  background-color: #ffeb0a;
+}
